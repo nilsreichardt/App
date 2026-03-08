@@ -2,6 +2,8 @@
 // All timezones were taken from: https://raw.githubusercontent.com/leon-do/Timezones/main/timezone.json
 import type {TupleToUnion} from 'type-fest';
 
+// asdfasdf
+
 const TIMEZONES = [
     'Africa/Abidjan',
     'Africa/Accra',
