@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 hello.py"
+            "command": "python hello.py"
           }
         ]
       }
